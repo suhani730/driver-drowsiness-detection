@@ -1,2 +1,19 @@
-# driver-drowsiness-detection
-AI-based system to detect driver drowsiness using computer vision and alert the driver in real-time.
+# Driver Drowsiness Detection
+
+This project detects if a driver is sleepy using a webcam and gives an alert.
+
+## Features
+- Eye detection
+- Drowsiness detection
+- Yawn detection
+- Alarm alert system
+
+## Tech Used
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+
+## How to Run
+pip install -r requirements.txt
+python main.py
